@@ -29,3 +29,4 @@ require_once plugin_dir_path(__FILE__)."includes/API/insertar_parametros.php";
 //Rutas
 require_once plugin_dir_path(__FILE__)."public/shortcodes/main_login.php";
 require_once plugin_dir_path(__FILE__)."public/shortcodes/formulario.php";
+require_once plugin_dir_path(__FILE__)."public/shortcodes/graficador.php";
